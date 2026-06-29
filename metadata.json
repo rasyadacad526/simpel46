@@ -1,0 +1,6 @@
+{
+  "name": "SIMPEL SMKN 46",
+  "description": "Aplikasi Pencatatan Tabungan Bank Mini (Simpanan Pelajar) SMKN 46 Jakarta dengan 3 Peran: Admin, Teler, dan Siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
